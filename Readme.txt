@@ -6,3 +6,10 @@ https://raw.githubusercontent.com/osama-khalid/workshop/main/little_prince.txt
 1dQ7IcH0OzncDl-9fi6YUIWuBTryPXheF
 https://raw.githubusercontent.com/rcompton/ryancompton.net/master/assets/dfw/David-Foster-Wallace-Infinite-Jest-v2.0.txt
 1zHdMDQCTH2gNO9KxDTbx-E2JnlXCISzw
+
+
+Session 2:
+
+Data:
+Rotten Tomatoes: 1aLzumUxjwiTjMywQ1AxUNd6i5qVUUS2n
+Yelp: 1mphRnEDnAdxPnXKP2yEZbQmqlGKPayt1
