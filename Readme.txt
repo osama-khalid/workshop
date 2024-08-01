@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/rcompton/ryancompton.net/master/assets/dfw/Dav
 
 
 Session 2:
-https://colab.research.google.com/drive/1MZpfZurb_cT4HnQh-_Grs81wojRFF3Hw?usp=sharing
+https://colab.research.google.com/drive/19QDNz2QS8ukEgTcRT4Z68sQnGkfQNHuy?usp=sharing
 Data:
 Rotten Tomatoes Train: 1h0cj9j8u65HgP1PNwmkwhV5Srybyyh7n
 Rotten Tomatoes Test: 1MzpxKbIL_XuK9d3YzcvX1ZK93QEXR6Ig
