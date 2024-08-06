@@ -15,3 +15,7 @@ Rotten Tomatoes Train: 1h0cj9j8u65HgP1PNwmkwhV5Srybyyh7n
 Rotten Tomatoes Test: 1MzpxKbIL_XuK9d3YzcvX1ZK93QEXR6Ig
 Yelp Train: 12w0cMYR_Oq39hdqZWSrfpQdfpBBMgHld
 Yelp Test: 1EfuE30W0rNEztMgLLShoX-L0Hqyismjn
+
+Session 3:
+
+Daily Iowan Dataaset: 1Q-7ur3i3ZljzYNp-fDsx48bvof2C3aun
