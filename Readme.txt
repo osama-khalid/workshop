@@ -19,3 +19,4 @@ Yelp Test: 1EfuE30W0rNEztMgLLShoX-L0Hqyismjn
 Session 3:
 Colab: https://colab.research.google.com/drive/1FYiBOerHc1vXcd4RkDC0p11wriS-MWYB?usp=sharing
 Daily Iowan Dataaset: 1Q-7ur3i3ZljzYNp-fDsx48bvof2C3aun
+Shakespeare: https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays
