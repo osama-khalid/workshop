@@ -25,3 +25,5 @@ Shakespeare: https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays
 Session 4:
 
 https://colab.research.google.com/drive/18VNm8GcOaVck1spsGwKfmV4avNDr0CNw?usp=sharing
+LIWC Manual + Categories: https://mcrc.journalism.wisc.edu/files/2018/04/Manual_LIWC.pdf
+Predicting Mental Health from Text (using LIWC features): https://ojs.aaai.org/index.php/ICWSM/article/view/14432/14281
