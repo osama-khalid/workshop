@@ -21,3 +21,7 @@ Colab: https://colab.research.google.com/drive/1FYiBOerHc1vXcd4RkDC0p11wriS-MWYB
 Colab 2: https://colab.research.google.com/drive/1TeqqThPUlc8zGE7NLHeqsQ6GJzOSK3hu?usp=sharing
 Daily Iowan Dataaset: 1Q-7ur3i3ZljzYNp-fDsx48bvof2C3aun
 Shakespeare: https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays
+
+Session 4:
+
+https://colab.research.google.com/drive/18VNm8GcOaVck1spsGwKfmV4avNDr0CNw?usp=sharing
