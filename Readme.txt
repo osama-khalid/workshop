@@ -31,3 +31,7 @@ Predicting Mental Health from Text (using LIWC features): https://ojs.aaai.org/i
 Session 5:
 
 https://colab.research.google.com/drive/1Oz47QeDCzEzImdhc0PcXP1oTLxOj9Eq_?usp=sharing
+
+Session 6:
+
+https://colab.research.google.com/drive/1c1tefKcrEs2VVm9K5jeMf4BU6hO2jyz5?usp=sharing
